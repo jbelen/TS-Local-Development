@@ -164,12 +164,12 @@
           </li>
           @else
           <li class="nav-item dropdown dropdown-hover mx-2">
-          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="/login" aria-expanded="false">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="{{route('login)}}" aria-expanded="false">
               Login
             </a>
           </li>
           <li class="nav-item mx-2">
-            <a href="/register" class="btn btn-sm  bg-gradient-danger  btn-round mb-0 me-1">Register</a>
+            <a href="{{route('register')}}" class="btn btn-sm  bg-gradient-danger  btn-round mb-0 me-1">Register</a>
           </li>
           @endif
         </ul>
