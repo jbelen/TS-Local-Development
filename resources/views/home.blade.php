@@ -164,7 +164,7 @@
           </li>
           @else
           <li class="nav-item dropdown dropdown-hover mx-2">
-          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="{{route('login)}}" aria-expanded="false">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="{{route('login')}}" aria-expanded="false">
               Login
             </a>
           </li>
