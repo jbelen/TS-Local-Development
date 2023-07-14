@@ -12,7 +12,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-4 text-center mx-auto">
 
-            <a class="navbar-brand  text-dark " href="index.php" rel="tooltip" title="TravelSpires" data-placement="bottom" target="_blank">
+            <a class="navbar-brand  text-dark " href="/" rel="tooltip" title="TravelSpires" data-placement="bottom">
               <img class="w-80" src="assets/img/logos/TravelSpires_Logo_BIG_Transparent.png" alt="logo">
             </a>
             <!--
